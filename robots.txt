@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mafertasan.vercel.app/sitemap.xml
